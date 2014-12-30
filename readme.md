@@ -1,6 +1,11 @@
 ## てーぶるおぶこんてんつ
 
+### NEWGAME!
 
+或る日のコウとりん
+
+- [GitHub](https://github.com/surotontium/ss/blob/master/newgame/01_aruhino_kou_to_rin.md)
+- [Pixiv](http://www.pixiv.net/novel/show.php?id=4729740)
 
 ## りぽじとりの構造
 
